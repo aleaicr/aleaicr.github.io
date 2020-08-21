@@ -1,4 +1,18 @@
 
+#topnavbar{
+    background-color: #171717;
+    color: white;
+    text-shadow: 0px 1px 1px black;
+}
+#topnavbar ul li{
+    display: inline;
+}
+
+#top-banner {
+    background:white;
+    color: #171717;
+    text-shadow: 0px 1px 1px #0f0f0f;
+}
 #logo-title {
     text-align: center;
     font-family: arial;
@@ -6,8 +20,11 @@
     text-shadow: 0px 0px 1px black;
 }
 
-#top-banner {
-    background:white;
-    color: #171717;
-    text-shadow: 0px 1px 1px #0f0f0f;
+#bottommenu{
+    background: #292929;
+    color: #909090;
+
+}
+#bottommenu a{
+    color: #555555;
 }
