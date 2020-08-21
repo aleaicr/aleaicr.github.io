@@ -1,4 +1,4 @@
-
+/*Haush Co. /style.css */
 #topnavbar{
     background-color: #171717;
     color: white;
@@ -8,7 +8,6 @@
     display: inline;
     padding: 10px; 
     font-family: sans-serif;
-
 }
 
 #top-banner {
@@ -22,12 +21,11 @@
     font-size: 50px;
     color: dodgerblue;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
-    }
+}
 
 #bottommenu{
     background: #292929;
     color: #909090;
-
 }
 #bottommenu a{
     color: #555555;
