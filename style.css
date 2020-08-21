@@ -2,8 +2,11 @@
 body {
     background-color: #000a13;
     font-family: sans-serif;
+    margin: 0px;
 }
-a{ color: white !important;}
+a{
+    color: white !important;
+}
 #topnavbar{
     background-color: #171717;
     color: white;
@@ -18,7 +21,6 @@ a{ color: white !important;}
     color: white;
     text-shadow: 1px 0px 1px black;
 }
-
 #top-banner {
     background:white;
     color: #171717;
@@ -30,7 +32,6 @@ a{ color: white !important;}
     color: #000a13;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
 }
-
 #bottommenu {
     background: #292929;
     color: #909090;
