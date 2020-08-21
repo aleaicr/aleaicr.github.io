@@ -11,9 +11,11 @@ a{
     background-color: #171717;
     color: white;
     text-shadow: 0px 1px 1px black;
+    text-align: right;
 }
 #topnavbar ul li{
     display: inline;
+    text-align: right;
     background-color: #171717;
 }
 #topnavbar a{
