@@ -1,4 +1,7 @@
 /*Haush Co. /style.css */
+body {
+    background-color: #000a13;
+}
 #topnavbar{
     background-color: #171717;
     color: white;
@@ -6,7 +9,8 @@
 }
 #topnavbar ul li{
     display: inline;
-    padding: 10px; 
+    padding: 30px;
+    background-color: #171717;
     font-family: sans-serif;
 }
 
