@@ -8,22 +8,6 @@ body {
 a{
     color: white !important;
 }
-#topnavbar{
-    background-color: #171717;
-    color: white;
-    text-shadow: 0px 1px 1px black;
-    text-align: right;
-}
-#topnavbar ul li{
-    display: inline;
-    text-align: right;
-    background-color: #171717;
-}
-#topnavbar a{
-    padding: 30px;
-    color: white;
-    text-shadow: 1px 0px 1px black;
-}
 #top-banner {
     background:white;
     color: #171717;
@@ -36,6 +20,34 @@ a{
     padding: 20px;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
 }
+#topnavbar {
+    background-color: #171717;
+    color: white;
+    text-shadow: 0px 1px 1px black;
+    text-align: right;
+}
+
+    #topnavbar ul li {
+        display: inline;
+        text-align: right;
+        background-color: #171717;
+    }
+
+    #topnavbar a {
+        padding: 30px;
+        color: white;
+        text-shadow: 1px 0px 1px black;
+    }
+
+#firstcontent{}
+#firsttitle{}
+#firstcontent{}
+#lateralright{}
+#second content
+
+
+
+
 #bottommenu{
     text-align: center;
     background: #292929;
