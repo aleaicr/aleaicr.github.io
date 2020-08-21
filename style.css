@@ -2,6 +2,7 @@
 body {
     background-color: #000a13;
 }
+a{ color: white !important;}
 #topnavbar{
     background-color: #171717;
     color: white;
@@ -16,7 +17,6 @@ body {
 #topnavbar a{
     color: white;
     text-shadow: 1px 0px 1px black;
-    
 }
 
 #top-banner {
