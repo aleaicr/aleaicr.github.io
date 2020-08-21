@@ -37,14 +37,15 @@ a{
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
 }
 #bottommenu{
-    text-align: right;
+    text-align: center;
     background: #292929;
     color: #909090;
 }
 #bottommenu ul li{
-    text-align: right;
+    text-align: center;
     align-content: center;
 }
+#bottommenu table {position: center;}
 #bottommenu a {
     color: #404040;
     padding: 2px;
