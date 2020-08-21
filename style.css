@@ -39,11 +39,35 @@ a{
         text-shadow: 1px 0px 1px black;
     }
 
-#firstcontent{}
-#firsttitle{}
-#firstcontent{}
-#lateralright{}
-#second content
+#secondwrap {
+    background-color: white;
+}
+#firstcontent{
+    background: white;
+    color: #171717;
+    text-shadow: 0px 1px 0px black;
+
+}
+#firsttitle{
+    font-size: 30px;
+    text-shadow: 0px 3px 2px black;
+}
+#firsttext{
+    font-size: 12px;
+    color: #292929;
+    text-shadow: 0px 1px 0px black;
+}
+#lateralright{
+    background-color: white;
+    color: #292929;
+
+
+}
+#secondcontent{
+    background-color: #00182c;
+    color: white;
+
+}
 
 
 
