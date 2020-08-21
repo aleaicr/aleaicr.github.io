@@ -1,6 +1,7 @@
 /*Haush Co. /style.css */
 body {
     background-color: #000a13;
+    font-family: sans-serif;
 }
 a{ color: white !important;}
 #topnavbar{
@@ -10,11 +11,10 @@ a{ color: white !important;}
 }
 #topnavbar ul li{
     display: inline;
-    padding: 30px;
     background-color: #171717;
-    font-family: sans-serif;
 }
 #topnavbar a{
+    padding: 30px;
     color: white;
     text-shadow: 1px 0px 1px black;
 }
@@ -26,16 +26,15 @@ a{ color: white !important;}
 }
 #logo-title {
     text-align: center;
-    font-family: arial;
     font-size: 50px;
     color: #000a13;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
 }
 
-#bottommenu{
+#bottommenu {
     background: #292929;
     color: #909090;
 }
-#bottommenu a{
+#bottommenu a {
     color: #555555;
 }
