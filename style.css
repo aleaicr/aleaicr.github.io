@@ -13,6 +13,11 @@ body {
     background-color: #171717;
     font-family: sans-serif;
 }
+#topnavbar a{
+    color: white;
+    text-shadow: 1px 0px 1px black;
+    
+}
 
 #top-banner {
     background:white;
