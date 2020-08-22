@@ -47,9 +47,9 @@ a{
     background-color: white;
     display: inline-block;
     width: 70%;
-    padding-left: 100px;
 }
-#firstcontent{
+#firstcontent {
+    padding-left: 100px;
     padding: 30px;
     background: white;
     color: #171717;
@@ -61,12 +61,13 @@ a{
     font-size: 35px;
     text-shadow: 0px 3px 2px black;
 }
-#firsttext{
+#firsttext {
     padding: 20px;
-    color: #292929;
-    text-shadow: 0px 1px 0px black;
+    color: #444444;
+    text-shadow: 0px 1px 0px #d2d2d2;
 }
-#secondcontent{
+#secondcontent {
+    padding-left: 100px;
     padding: 30px;
     background-color: #00182c;
     color: white;
