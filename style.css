@@ -39,7 +39,7 @@ a{
         text-shadow: 1px 0px 1px black;
     }
 
-#secondwrap {
+#containerwrap {
     background-color: white;
 }
 #firstcontent{
@@ -57,21 +57,17 @@ a{
     color: #292929;
     text-shadow: 0px 1px 0px black;
 }
-#lateralright{
-    background-color: white;
-    color: #292929;
-
-
-}
 #secondcontent{
     background-color: #00182c;
     color: white;
 
 }
-
-
-
-
+#lateralright {
+    background-color: white;
+    color: #292929;
+    float: right;
+    width: 20%;
+}
 #bottommenu{
     text-align: center;
     background: #292929;
@@ -81,7 +77,10 @@ a{
     text-align: center;
     align-content: center;
 }
-#bottommenu table {position: center;}
+#bottommenu table {
+    float: right;
+
+}
 #bottommenu a {
     color: #404040;
     padding: 2px;
