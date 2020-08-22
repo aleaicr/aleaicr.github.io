@@ -45,6 +45,9 @@ a{
 
 #containerwrap {
     background-color: white;
+    display: inline-block;
+    width: 70%;
+    padding-left: 100px;
 }
 #firstcontent{
     padding: 30px;
@@ -71,6 +74,7 @@ a{
 
 }
 #lateralright {
+    di
     padding: 30px;
     word-wrap:break-word;
     background-color: white;
