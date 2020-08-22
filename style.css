@@ -6,16 +6,19 @@ body {
     margin: 0px;
 }
 a{
-    color: white !important;
+    color: white;
+    text-decoration: none;
 }
 #top-banner {
     background:white;
     color: #171717;
     text-shadow: 0px 1px 1px #0f0f0f;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 #logo-title {
     text-align: center;
-    font-size: 50px;
+    font-size: 100px;
     color: #000a13;
     padding: 20px;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
@@ -25,44 +28,51 @@ a{
     color: white;
     text-shadow: 0px 1px 1px black;
     text-align: right;
+    padding: 30px;
 }
 
-    #topnavbar ul li {
+#topnavbar ul li {
         display: inline;
         text-align: right;
         background-color: #171717;
-    }
+}
 
-    #topnavbar a {
+#topnavbar a {
         padding: 30px;
         color: white;
         text-shadow: 1px 0px 1px black;
-    }
+}
 
 #containerwrap {
     background-color: white;
 }
 #firstcontent{
+    padding: 30px;
     background: white;
     color: #171717;
     text-shadow: 0px 1px 0px black;
 
 }
 #firsttitle{
+    padding: 30px;
     font-size: 30px;
     text-shadow: 0px 3px 2px black;
 }
 #firsttext{
+    padding: 20px;
     font-size: 12px;
     color: #292929;
     text-shadow: 0px 1px 0px black;
 }
 #secondcontent{
+    padding: 30px;
     background-color: #00182c;
     color: white;
 
 }
 #lateralright {
+    padding: 30px;
+    word-wrap:break-word;
     background-color: white;
     color: #292929;
     float: right;
@@ -80,6 +90,9 @@ a{
 #bottommenu table {
     float: right;
 
+}
+#bottommenu table tr td{
+    padding: 20px;
 }
 #bottommenu a {
     color: #404040;
