@@ -57,6 +57,10 @@ a{
     color: #171717;
     font-size: 20px;
 }
+#firstcontent img {
+    max-width: 100px;
+    max-height: 100px;
+}
 #firsttitle{
     padding: 30px;
     font-size: 35px;
