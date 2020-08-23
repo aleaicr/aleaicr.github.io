@@ -36,6 +36,9 @@ a{
         text-align: right;
         background-color: #171717;
 }
+#totalwrap{
+
+}
 
 #topnavbar a {
         padding: 30px;
@@ -59,17 +62,39 @@ a{
 #firsttitle{
     padding: 30px;
     font-size: 35px;
-    text-shadow: 0px 3px 2px black;
+    text-shadow: 0px 1px 1px #292929;
 }
 #firsttext {
     padding: 20px;
     color: #444444;
-    text-shadow: 0px 1px 0px #d2d2d2;
 }
 #secondcontent {
     padding-left: 100px;
     padding: 30px;
     background-color: #00182c;
+    color: white;
+}
+#secondtitle{
+    color: dodgerblue;
+    text-shadow: 0px 1px 0px #292929, 0px -1px 0px white;
+    font-size: 35px;
+    padding: 30px;
+}
+#secondtext{
+    color: white;
+}
+#thirdcontent{
+    padding-left:100px;
+    padding: 30px;
+    background-color:#00182c;
+    color: ghostwhite;
+}
+#thirdtitle{
+    padding:30px;
+    font-size:35px;
+    text-shadow: 0px 1px 0px dodgerblue;
+}
+#thirdtext{
     color: white;
 }
 #lateralright {
