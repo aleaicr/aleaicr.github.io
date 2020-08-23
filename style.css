@@ -20,12 +20,12 @@ a{
 #logo-title {
     text-align: center;
     font-size: 100px;
-    color: #000a13;
+    color: #00182c;
     padding: 20px;
     text-shadow: rgba(245,245,245,0.498039) 5px 0 0px, rgba(245,245,245,0.498039) -5px 0 0px, rgba(245,245,245,0.498039) 0 5px 0px, rgba(245,245,245,0.498039) 0 -5px 0px, rgba(245,245,245,0.498039) 5px 5px 0px, rgba(245,245,245,0.498039) -5px -5px 0px, rgba(245,245,245,0.498039) 5px -5px 0px, rgba(245,245,245,0.498039) -5px 5px 0px, #fff 0 1px 0px, #000 3px 3px 20px, #000 3px 3px 20px;
 }
 #topnavbar {
-    background-color: #171717;
+    background-color: #00182c;
     color: white;
     text-shadow: 0px 1px 1px black;
     text-align: right;
@@ -35,7 +35,6 @@ a{
 #topnavbar ul li {
     display: inline;
     text-align: right;
-    background-color: #171717;
 }
 #topnavbar a {
     padding: 30px;
