@@ -42,7 +42,7 @@ a{
     text-shadow: 1px 0px 1px black;
 }
 #totalwrap{
-
+    display:inline-block;
 }
 
 #containerwrap {
