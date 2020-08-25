@@ -15,6 +15,7 @@ a{
     color: #171717;
     padding-top: 50px;
     padding-bottom: 50px;
+    font-family: 'Bebas Neue',sans-serif;
 }
 #logo-title {
     text-align: center;
@@ -26,6 +27,7 @@ a{
 #topnavbar {
     background-color: #00182c;
     color: white;
+    font-family:'Bebas Neue',sans-serif;
     text-shadow: 0px -1px 0px black;
     text-align: right;
     padding: 30px;
@@ -65,6 +67,7 @@ a{
     max-height: 400px;
 }
 #firsttitle{
+    font-family: 'Bebas Neue', sans-serif;
     text-align: center;
     padding: 30px;
     font-size: 35px;
@@ -75,6 +78,7 @@ a{
     color: #4f4f4f;
 }
 #secondcontent {
+    font-family:'Bebas Neue', sans-serif;
     padding-left: 100px;
     padding: 30px;
     background-color: #00182c;
@@ -95,6 +99,7 @@ a{
     color: ghostwhite;
 }
 #thirdtitle{
+    font-family: 'Bebas Neue',sans-serif;
     padding:30px;
     font-size:35px;
 }
