@@ -2,7 +2,7 @@
 
 body {
     background-color: #000a13;
-    font-family: Helvetica,sans-serif;
+    font-family: sans-serif;
     margin: 0px;
     zoom: 90%;
 }
@@ -49,6 +49,7 @@ a{
     background-color: white;
     display: inline-block;
     width: 70%;
+    font-family: 'Roboto', sans-serif;
 }
 #firstcontent {
     padding-left: 100px;
