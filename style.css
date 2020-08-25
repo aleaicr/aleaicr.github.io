@@ -75,23 +75,24 @@ a{
     text-align: center;
     padding: 30px;
     font-size: 35px;
-    text-shadow: -1px -1px 0px #292929;
+    letter-spacing:3px;
 }
 #firsttext {
     padding: 20px;
     color: #4f4f4f;
 }
 #secondcontent {
-    font-family:'Bebas Neue', sans-serif;
     padding-left: 100px;
     padding: 30px;
     background-color: #00182c;
     color: white;
 }
-#secondtitle{
+#secondtitle {
+    font-family: 'Bebas Neue', sans-serif;
     color: white;
     font-size: 35px;
     padding: 30px;
+    letter-spacing: 3px;
 }
 #secondtext{
     color: white;
@@ -106,6 +107,7 @@ a{
     font-family: 'Bebas Neue',sans-serif;
     padding:30px;
     font-size:35px;
+    letter-spacing:3px;
 }
 #thirdtext{
     color: white;
@@ -118,6 +120,19 @@ a{
     color: #292929;
     float: right;
     width: 20%;
+}
+#widgettitle {
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing:3px;
+}
+#widgettext { 
+
+}
+#widgettext ul{
+    list-style-type:none;
+}
+#widgettext ul li ul {
+    list-style-type:upper-roman;
 }
 #bottommenu {
     list-style-type: none;
