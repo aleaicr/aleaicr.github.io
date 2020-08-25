@@ -63,6 +63,7 @@ a{
     max-height: 400px;
 }
 #firsttitle{
+    text-align: center;
     padding: 30px;
     font-size: 35px;
     text-shadow: -1px -1px 0px #292929;
