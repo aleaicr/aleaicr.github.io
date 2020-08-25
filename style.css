@@ -144,7 +144,9 @@ a{
     font-family: 'Bebas Neue';
     word-wrap: break-word;
     color: white;
-    background: #
+    letter-spacing: 2px;
+    font-size: 20px;
+    background: #121212;
 }
 
 #bottommenu {
