@@ -63,7 +63,7 @@ a{
     display: inline-block;
     width: 70%;
     font-family: 'Roboto', sans-serif;
-    border-right: 3px solid #FFC500;
+    border-right: 5px solid #FFC500;
 }
 #firstcontent {
     padding-left: 100px;
@@ -143,11 +143,15 @@ a{
 }
 #secondtotalwrap {
     font-family: 'Bebas Neue';
+    padding: 60px;
+    display: block;
     word-wrap: break-word;
     color: white;
     letter-spacing: 2px;
     font-size: 20px;
     background: #121212;
+    width: 100%;
+    border-top: 5px #FFC500;
 }
 
 #bottommenu {
