@@ -133,12 +133,20 @@ a{
 #widgettext { 
 
 }
-#widgettext ul{
+#widgettext ul li{
     list-style-type:none;
+    list-style:none;
 }
-#widgettext ul li ul {
+#widgettext ul li ul li {
     list-style-type:upper-roman;
 }
+#secondtotalwrap {
+    font-family: 'Bebas Neue';
+    word-wrap: break-word;
+    color: white;
+    background: #
+}
+
 #bottommenu {
     list-style-type: none;
     text-align: center;
