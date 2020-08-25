@@ -13,9 +13,8 @@ a{
 #top-banner {
     background:white;
     color: #171717;
-    text-shadow: 0px 1px 1px #0f0f0f;
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 #logo-title {
     text-align: center;
@@ -27,7 +26,7 @@ a{
 #topnavbar {
     background-color: #00182c;
     color: white;
-    text-shadow: 0px 1px 1px black;
+    text-shadow: 0px -1px 0px black;
     text-align: right;
     padding: 30px;
 }
@@ -95,7 +94,6 @@ a{
 #thirdtitle{
     padding:30px;
     font-size:35px;
-    text-shadow: 0px 1px 0px dodgerblue;
 }
 #thirdtext{
     color: white;
@@ -103,7 +101,7 @@ a{
 #lateralright {
     padding: 30px;
     word-wrap:break-word;
-    background-color: white;
+    background-color: #f2f2f2;
     color: #292929;
     float: right;
     width: 20%;
